@@ -1,0 +1,201 @@
+Token : zudul
+Number of Occurences : 1
+Position in Posting File : 252235
+Token : zudulnak
+Number of Occurences : 1
+Position in Posting File : 252236
+Token : zudult
+Number of Occurences : 1
+Position in Posting File : 252237
+Token : zuellesztesenfaradoznak
+Number of Occurences : 1
+Position in Posting File : 252238
+Token : zuerst
+Number of Occurences : 1
+Position in Posting File : 252239
+Token : zugligeti
+Number of Occurences : 1
+Position in Posting File : 252240
+Token : zugpiacokon
+Number of Occurences : 1
+Position in Posting File : 252241
+Token : zugtak
+Number of Occurences : 1
+Position in Posting File : 252242
+Token : zuhan
+Number of Occurences : 1
+Position in Posting File : 252243
+Token : zuhanast
+Number of Occurences : 1
+Position in Posting File : 252244
+Token : zuhanna
+Number of Occurences : 1
+Position in Posting File : 252245
+Token : zuhanni
+Number of Occurences : 1
+Position in Posting File : 252246
+Token : zuhanok
+Number of Occurences : 1
+Position in Posting File : 252247
+Token : zuhant
+Number of Occurences : 5
+Position in Posting File : 252248
+Token : zuhantak
+Number of Occurences : 2
+Position in Posting File : 252253
+Token : zuhanttavaly
+Number of Occurences : 1
+Position in Posting File : 252255
+Token : zullese
+Number of Occurences : 1
+Position in Posting File : 252256
+Token : zullest
+Number of Occurences : 1
+Position in Posting File : 252257
+Token : zulleszteni
+Number of Occurences : 1
+Position in Posting File : 252258
+Token : zullhet
+Number of Occurences : 1
+Position in Posting File : 252259
+Token : zullott
+Number of Occurences : 1
+Position in Posting File : 252260
+Token : zullottseg
+Number of Occurences : 1
+Position in Posting File : 252261
+Token : zum
+Number of Occurences : 1
+Position in Posting File : 252262
+Token : zundel
+Number of Occurences : 1
+Position in Posting File : 252263
+Token : zundelrol
+Number of Occurences : 1
+Position in Posting File : 252264
+Token : zundelsite
+Number of Occurences : 1
+Position in Posting File : 252265
+Token : zundelwww
+Number of Occurences : 1
+Position in Posting File : 252266
+Token : zunk
+Number of Occurences : 1
+Position in Posting File : 252267
+Token : zunkel
+Number of Occurences : 1
+Position in Posting File : 252268
+Token : zur
+Number of Occurences : 1
+Position in Posting File : 252269
+Token : zurcherzeitungban
+Number of Occurences : 1
+Position in Posting File : 252270
+Token : zurich
+Number of Occurences : 2
+Position in Posting File : 252271
+Token : zurokkel
+Number of Occurences : 1
+Position in Posting File : 252273
+Token : zuros
+Number of Occurences : 1
+Position in Posting File : 252274
+Token : zurzavar
+Number of Occurences : 1
+Position in Posting File : 252275
+Token : zurzavarba
+Number of Occurences : 1
+Position in Posting File : 252276
+Token : zurzavarban
+Number of Occurences : 1
+Position in Posting File : 252277
+Token : zurzavaros
+Number of Occurences : 1
+Position in Posting File : 252278
+Token : zurzavart
+Number of Occurences : 1
+Position in Posting File : 252279
+Token : zus
+Number of Occurences : 1
+Position in Posting File : 252280
+Token : zuzzak
+Number of Occurences : 1
+Position in Posting File : 252281
+Token : zuzzuk
+Number of Occurences : 1
+Position in Posting File : 252282
+Token : zv
+Number of Occurences : 2
+Position in Posting File : 252283
+Token : zvet
+Number of Occurences : 2
+Position in Posting File : 252285
+Token : zvetve
+Number of Occurences : 1
+Position in Posting File : 252287
+Token : zvezda
+Number of Occurences : 2
+Position in Posting File : 252288
+Token : zvonimircicak
+Number of Occurences : 1
+Position in Posting File : 252290
+Token : zvornik
+Number of Occurences : 2
+Position in Posting File : 252291
+Token : zvyahilsky
+Number of Occurences : 1
+Position in Posting File : 252293
+Token : zwach
+Number of Occurences : 3
+Position in Posting File : 252294
+Token : zwack
+Number of Occurences : 1
+Position in Posting File : 252297
+Token : zwalm
+Number of Occurences : 1
+Position in Posting File : 252298
+Token : zweck
+Number of Occurences : 1
+Position in Posting File : 252299
+Token : zwei
+Number of Occurences : 1
+Position in Posting File : 252300
+Token : zwiers
+Number of Occurences : 1
+Position in Posting File : 252301
+Token : zy
+Number of Occurences : 1
+Position in Posting File : 252302
+Token : zyanon
+Number of Occurences : 1
+Position in Posting File : 252303
+Token : zycie
+Number of Occurences : 1
+Position in Posting File : 252304
+Token : zylyftar
+Number of Occurences : 1
+Position in Posting File : 252305
+Token : zynak
+Number of Occurences : 1
+Position in Posting File : 252306
+Token : zyr
+Number of Occurences : 1
+Position in Posting File : 252307
+Token : zyuganov
+Number of Occurences : 15
+Position in Posting File : 252308
+Token : zz
+Number of Occurences : 2
+Position in Posting File : 252323
+Token : zzdfordul
+Number of Occurences : 1
+Position in Posting File : 252325
+Token : zzel
+Number of Occurences : 1
+Position in Posting File : 252326
+Token : zzuk
+Number of Occurences : 1
+Position in Posting File : 252327
+Token : zzzzzzz
+Number of Occurences : 39
+Position in Posting File : 252328

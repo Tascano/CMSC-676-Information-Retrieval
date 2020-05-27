@@ -1,0 +1,200 @@
+Token : aa
+Number of Occurences : 2
+Position in Posting File : 1
+Token : aaa
+Number of Occurences : 7
+Position in Posting File : 3
+Token : aacute
+Number of Occurences : 43
+Position in Posting File : 10
+Token : aacutelt
+Number of Occurences : 1
+Position in Posting File : 53
+Token : aacutev
+Number of Occurences : 1
+Position in Posting File : 54
+Token : aaeliberalis
+Number of Occurences : 1
+Position in Posting File : 55
+Token : aaemassago
+Number of Occurences : 1
+Position in Posting File : 56
+Token : aaemegvalosult
+Number of Occurences : 1
+Position in Posting File : 57
+Token : aardvark
+Number of Occurences : 1
+Position in Posting File : 58
+Token : aaron
+Number of Occurences : 3
+Position in Posting File : 59
+Token : aarp
+Number of Occurences : 1
+Position in Posting File : 62
+Token : aas
+Number of Occurences : 2
+Position in Posting File : 63
+Token : aasad
+Number of Occurences : 1
+Position in Posting File : 65
+Token : ababa
+Number of Occurences : 1
+Position in Posting File : 66
+Token : abalczo
+Number of Occurences : 1
+Position in Posting File : 67
+Token : abalkanon
+Number of Occurences : 1
+Position in Posting File : 68
+Token : abaloldalizasnak
+Number of Occurences : 1
+Position in Posting File : 69
+Token : abandon
+Number of Occurences : 4
+Position in Posting File : 70
+Token : abandoned
+Number of Occurences : 1
+Position in Posting File : 74
+Token : abandoning
+Number of Occurences : 3
+Position in Posting File : 75
+Token : abandonment
+Number of Occurences : 2
+Position in Posting File : 78
+Token : abang
+Number of Occurences : 1
+Position in Posting File : 80
+Token : abank
+Number of Occurences : 1
+Position in Posting File : 81
+Token : abanknak
+Number of Occurences : 1
+Position in Posting File : 82
+Token : abankoknak
+Number of Occurences : 1
+Position in Posting File : 83
+Token : abankrendszer
+Number of Occurences : 1
+Position in Posting File : 84
+Token : abankuralom
+Number of Occurences : 1
+Position in Posting File : 85
+Token : abastece
+Number of Occurences : 2
+Position in Posting File : 86
+Token : abastecer
+Number of Occurences : 1
+Position in Posting File : 88
+Token : abasteciendo
+Number of Occurences : 1
+Position in Posting File : 89
+Token : abastecimiento
+Number of Occurences : 1
+Position in Posting File : 90
+Token : abate
+Number of Occurences : 1
+Position in Posting File : 91
+Token : abated
+Number of Occurences : 1
+Position in Posting File : 92
+Token : abazilika
+Number of Occurences : 1
+Position in Posting File : 93
+Token : abb
+Number of Occurences : 6
+Position in Posting File : 94
+Token : abba
+Number of Occurences : 3
+Position in Posting File : 100
+Token : abbahagyta
+Number of Occurences : 2
+Position in Posting File : 103
+Token : abban
+Number of Occurences : 36
+Position in Posting File : 105
+Token : abbanremenykedik
+Number of Occurences : 1
+Position in Posting File : 141
+Token : abbate
+Number of Occurences : 1
+Position in Posting File : 142
+Token : abbe
+Number of Occurences : 1
+Position in Posting File : 143
+Token : abbeval
+Number of Occurences : 1
+Position in Posting File : 144
+Token : abbey
+Number of Occurences : 1
+Position in Posting File : 145
+Token : abbie
+Number of Occurences : 1
+Position in Posting File : 146
+Token : abbitt
+Number of Occurences : 2
+Position in Posting File : 147
+Token : abbol
+Number of Occurences : 13
+Position in Posting File : 149
+Token : abboladodnak
+Number of Occurences : 1
+Position in Posting File : 162
+Token : abc
+Number of Occurences : 6
+Position in Posting File : 163
+Token : abdication
+Number of Occurences : 2
+Position in Posting File : 169
+Token : abdnor
+Number of Occurences : 12
+Position in Posting File : 171
+Token : abdomen
+Number of Occurences : 1
+Position in Posting File : 183
+Token : abdominal
+Number of Occurences : 1
+Position in Posting File : 184
+Token : abducted
+Number of Occurences : 1
+Position in Posting File : 185
+Token : abduction
+Number of Occurences : 1
+Position in Posting File : 186
+Token : abdul
+Number of Occurences : 3
+Position in Posting File : 187
+Token : abecslesek
+Number of Occurences : 1
+Position in Posting File : 190
+Token : abefizeteseket
+Number of Occurences : 1
+Position in Posting File : 191
+Token : abefolyasolasi
+Number of Occurences : 1
+Position in Posting File : 192
+Token : abehelyettesit
+Number of Occurences : 1
+Position in Posting File : 193
+Token : abeking
+Number of Occurences : 1
+Position in Posting File : 194
+Token : abelugyminiszter
+Number of Occurences : 1
+Position in Posting File : 195
+Token : abennunket
+Number of Occurences : 1
+Position in Posting File : 196
+Token : abenzinarakat
+Number of Occurences : 1
+Position in Posting File : 197
+Token : abeolvaszto
+Number of Occurences : 1
+Position in Posting File : 198
+Token : abercrombie
+Number of Occurences : 1
+Position in Posting File : 199
+Token : abernethy
+Number of Occurences : 2
+Position in Posting File : 200
+Token : aberranciajat
+Number of Occurences : 1
